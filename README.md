@@ -1,3 +1,4 @@
+This modified version will install the packs to the development folders instead of installing it to the world.
 
 # BDSAddonInstaller
 Bedrock Dedicated Server Addon Installer is a node tool used for automatically installing, updating, and uninstalling both addons and packs for the Mojang released bedrock servers.
